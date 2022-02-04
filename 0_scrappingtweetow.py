@@ -44,7 +44,6 @@ for k in range(11):
     print(f'Pobrano {50000*(k+1)}/500000.')
     time.sleep(950)
 
-"""Pobrało mi się 350k tweetów, więcej nie miałam czasu scrapować niestety, bo puszczałam to wielokrotnie i zwykle dochodziło tylko do 200k. Mam nadzieję, że to wystarczy na 3. """
 
 len(tweets)
 
